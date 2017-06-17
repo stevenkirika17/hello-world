@@ -1,2 +1,2 @@
 # hello-world
-My first github project for editing.
+My first github project for Editing.
